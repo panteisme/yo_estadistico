@@ -1,0 +1,89 @@
+﻿no_boleta,sexo,edad,edadrangos,analgesia_usada,tipo_artroscopia,eva_hora,dolor_hora,eva_6horas,dolor_6horas,eva_12horas,dolor_12horas,tuvo_efecto_adverso,efecto_adverso1,medicamentos_para_efecto1
+1,femenino,46,3,0,0,4,1,2,0,2,0,0, , 
+9,masculino,29,1,0,0,5,1,2,0,1,0,0, , 
+15,masculino,44,3,0,0,3,0,1,0,1,0,0, , 
+17,masculino,45,3,0,0,4,1,2,0,1,0,0, , 
+24,masculino,53,4,0,0,5,1,3,0,2,0,1,nausea,dimenhidrinato
+30,masculino,39,2,0,0,4,1,3,0,1,0,0, , 
+39,femenino,35,2,0,0,4,1,3,0,1,0,0, , 
+45,femenino,53,4,0,0,4,1,1,0,1,0,1,nausea,dimenhidrinato
+47,masculino,53,4,0,0,5,1,3,0,1,0,0, , 
+51,femenino,46,3,0,0,4,1,1,0,1,0,0, , 
+57,femenino,48,3,0,0,3,0,1,0,1,0,0, , 
+58,femenino,39,2,0,0,3,0,2,0,2,0,0, , 
+60,masculino,46,3,0,0,4,1,2,0,1,0,0, , 
+64,masculino,55,4,0,0,3,0,3,0,2,0,1,nausea,dimenhidrinato
+69,femenino,57,4,0,0,4,1,3,0,1,0,0, , 
+80,femenino,56,4,0,0,3,0,1,0,1,0,1,nausea,dimenhidrinato
+83,femenino,39,2,0,0,3,0,3,0,2,0,0, , 
+84,femenino,48,3,0,0,3,0,2,0,2,0,0, , 
+87,masculino,55,4,0,0,4,1,2,0,2,0,1,nausea,dimenhidrinato
+3,masculino,42,3,0,1,3,0,1,0,1,0,1,nausea,dimenhidrinato
+5,masculino,55,4,0,1,3,0,2,0,2,0,1,nausea,dimenhidrinato
+7,femenino,37,2,0,1,4,1,1,0,1,0,0, , 
+11,femenino,57,4,0,1,4,1,1,0,1,0,1,nausea,dimenhidrinato
+13,femenino,57,4,0,1,3,0,2,0,2,0,0, , 
+20,femenino,56,4,0,1,4,1,3,0,1,0,0, , 
+23,femenino,47,3,0,1,4,1,2,0,1,0,0, , 
+25,masculino,66,5,0,1,4,1,4,1,2,0,0, , 
+28,femenino,59,4,0,1,4,1,2,0,1,0,1,nausea,dimenhidrinato
+31,femenino,37,2,0,1,4,1,2,0,1,0,0, , 
+35,masculino,63,5,0,1,4,1,3,0,2,0,1,nausea,dimenhidrinato
+36,masculino,38,2,0,1,4,1,2,0,1,0,0, , 
+40,femenino,45,3,0,1,4,1,2,0,2,0,0, , 
+42,masculino,64,5,0,1,4,1,2,0,1,0,0, , 
+48,femenino,47,3,0,1,5,1,2,0,1,0,0, , 
+50,masculino,39,2,0,1,5,1,1,0,1,0,0, , 
+54,femenino,50,4,0,1,4,1,3,0,2,0,0, , 
+55,masculino,35,2,0,1,4,1,3,0,1,0,0, , 
+61,masculino,52,4,0,1,4,1,3,0,1,0,0, , 
+67,masculino,44,3,0,1,3,0,1,0,1,0,0, , 
+70,femenino,49,3,0,1,4,1,2,0,1,0,0, , 
+73,femenino,50,4,0,1,4,1,2,0,2,0,0, , 
+74,masculino,45,3,0,1,5,1,3,0,1,0,0, , 
+75,femenino,56,4,0,1,5,1,2,0,2,0,0, , 
+79,femenino,47,3,0,1,3,0,2,0,2,0,0, , 
+6,femenino,23,1,1,0,5,1,3,0,2,0,1,nausea,dimenhidrinato
+14,femenino,61,5,1,0,5,1,3,0,2,0,0, , 
+21,femenino,44,3,1,0,4,1,2,0,2,0,0, , 
+22,masculino,38,2,1,0,5,1,3,0,2,0,0, , 
+29,masculino,41,3,1,0,5,1,3,0,1,0,0, , 
+32,femenino,43,3,1,0,5,1,3,0,1,0,0, , 
+34,femenino,61,5,1,0,5,1,1,0,1,0,0, , 
+38,masculino,57,4,1,0,4,1,2,0,1,0,0, , 
+44,masculino,41,3,1,0,5,1,3,0,2,0,1,nausea,dimenhidrinato
+52,femenino,54,4,1,0,4,1,2,0,2,0,0, , 
+66,femenino,38,2,1,0,4,1,2,0,1,0,0, , 
+68,femenino,51,4,1,0,3,0,2,0,1,0,0, , 
+71,masculino,39,2,1,0,3,0,2,0,1,0,0, , 
+76,femenino,49,3,1,0,3,0,2,0,2,0,0, , 
+82,masculino,62,5,1,0,4,1,2,0,1,0,0, , 
+86,masculino,61,5,1,0,4,1,2,0,1,0,0, , 
+2,masculino,38,2,1,1,5,1,3,0,2,0,0, , 
+4,femenino,34,2,1,1,4,1,2,0,2,0,0, , 
+8,masculino,43,3,1,1,4,1,3,0,1,0,0, , 
+10,masculino,38,2,1,1,4,1,3,0,3,0,1,nausea,dimenhidrinato
+12,masculino,64,5,1,1,5,1,2,0,1,0,0, , 
+16,femenino,23,1,1,1,4,1,3,0,1,0,0, , 
+18,masculino,62,5,1,1,3,0,1,0,1,0,0, , 
+19,femenino,48,3,1,1,5,1,3,0,2,0,0, , 
+26,masculino,49,3,1,1,5,1,2,0,1,0,0, , 
+27,femenino,57,4,1,1,4,1,1,0,1,0,0, , 
+33,femenino,44,3,1,1,4,1,2,0,2,0,0, , 
+37,femenino,44,3,1,1,5,1,3,0,2,0,0, , 
+41,femenino,59,4,1,1,5,1,3,0,1,0,0, , 
+43,masculino,58,4,1,1,5,1,3,0,2,0,0, , 
+46,femenino,64,5,1,1,4,1,2,0,2,0,0, , 
+49,masculino,63,5,1,1,4,1,3,0,1,0,0, , 
+53,masculino,49,3,1,1,5,1,2,0,1,0,1,nausea,dimenhidrinato
+56,masculino,37,2,1,1,4,1,3,0,1,0,0, , 
+59,femenino,33,2,1,1,3,0,1,0,1,0,1,nausea,dimenhidrinato
+62,femenino,41,3,1,1,4,1,3,0,2,0,0, , 
+63,femenino,61,5,1,1,4,1,2,0,2,0,0, , 
+65,masculino,59,4,1,1,4,1,3,0,1,0,1,nausea,dimenhidrinato
+72,masculino,48,3,1,1,3,0,2,0,2,0,0, , 
+77,masculino,63,5,1,1,4,1,2,0,1,0,0, , 
+78,masculino,58,4,1,1,4,1,3,0,1,0,0, , 
+81,femenino,41,3,1,1,3,0,2,0,1,0,0, , 
+85,masculino,47,3,1,1,3,0,1,0,1,0,0, , 
+88,femenino,38,2,1,1,4,1,3,0,1,0,0, , 
